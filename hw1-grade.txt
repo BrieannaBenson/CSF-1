@@ -1,0 +1,7 @@
+Name: Stephen Rancourt
+Evergreen Login: ranste07
+
+3/3
+
+Maybe consider a second variable for roots, just in case the first needs to be called again later.
+I learned a new way to import from your program.
