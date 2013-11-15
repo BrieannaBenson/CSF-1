@@ -180,6 +180,6 @@ Cr = 51.996
 At = 210.0
 Zr = 91.224
 
-
+Radio_Active = ['Pu', 'Am', 'Pm', 'Pa', 'U', 'Es', 'Fm', 'Uut', 'Uuq', 'Cm', 'Md', 'No', 'Np', 'At', 'Lr', 'Rf', 'Mt', 'Fr', 'Bk', 'Rn', 'Rg', 'Cn', 'Uup', 'Ds', 'Tc', 'Cf','Ra', 'Ac', 'Th', 'Po', 'Uuh', 'Uus', 'Db', 'Sg', 'Bh', 'Hs', 'Uuo']
 
 
