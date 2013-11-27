@@ -1,0 +1,44 @@
+Name: Kevin Bedard
+Evergreen Login: Bedkev01
+Computer Science Foundations
+Programming as a Way of Life
+Fall 2013
+Homework 3 
+
+For each problem that requires a written answer, write (or copy-and-paste)
+your answers in this file.  When you are done, you should have replaced all
+the ellipses (the three dots) with your answers.
+
+At the end, you will turn in this file along with your modified
+dna_analysis.py program.
+
+
+Problem 1:
+
+(No answers in this file.)
+
+Problem 2:
+
+GC counts are as follows
+sample 1 : 0.43029262963
+sample 2 : 0.45105133333
+sample 3 : 0.646864112524
+sample 4 : 0.347852341166
+sample 5 : 0.263157894737
+sample 6 : 0.491518518519
+
+Problem 3:
+
+I got errors because I removed important variables from the program. This made it unable to know what to do when the information I omitted was needed.
+
+Problem 4:
+
+AT-content: 0.568993851852
+
+Collaboration:
+
+none
+
+Reflection:
+
+My favorite assignment so far. Math has never been my strongest point, and it seemed the previous assignmnets required us to just figure out formulas etc... which I see the use in however this section let us get into code and disect it. Playing with it and seeing what happens when we tweek small things, I feel is a much more intuitive way to learn. 
