@@ -6,10 +6,14 @@ Homework 5: Election prediction
 
 Collaboration:
 
-...
+
 
 
 Reflection:
 
-...
+This has prooven to be very challanging. I have a few of parts more or less figured out,
+the problem I run into is getting it to fit in I guess. That is I know parts of what I need
+to do, or at least I think I do, but I am struggeling on how to impliment it. So instead of 
+having just part of a code, I have little pieces of parts of code with no where to put them. This is
+why the sheet looks so blank despite my efforts. 
 
