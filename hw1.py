@@ -29,11 +29,13 @@ a = 1
 b = -5.86
 c = 8.5408
 
-x = (-b - math.sqrt(math.pow(b,2) - 4*a*c))/(2*a)
+d = 2*a
+
+x = (-b - math.sqrt(math.pow(b,2) - 4*a*c))/d
 
 print x
 
-x = (-b + math.sqrt(math.pow(b,2) - 4*a*c))/(2*a)
+x = (-b + math.sqrt(math.pow(b,2) - 4*a*c))/d
 
 print x
 
